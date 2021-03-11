@@ -1,0 +1,3 @@
+# Yardım
+
+ayarlar.json
